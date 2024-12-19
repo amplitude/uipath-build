@@ -1,2 +1,2 @@
 # uipath-sandbox
-REpository to store UIPath build
+Repository to store UIPath build
